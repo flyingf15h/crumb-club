@@ -1,5 +1,3 @@
-# trade-legend
+# crumb club
 
-Trade war: With the ongoing trade war, a trusted supplier raises the price of cream! Grandma doesn’t have a quick way to compare alternatives, check how the change affects parfait costs, or decide whether to adjust the recipe price. 
-
-Local legend: Grandma wants to buy more ingredients locally, but finding growers and comparing prices, availability, and delivery takes time
+Customers that are part of the crumb club get points ($1 = 5 points) for spending money at Grandma’s bakery and for voting on the next flavour of the month once per month for points and for referring friends. Points can be used for discounts and redeeming a free good. Customers of the loyalty program can gamble once per day in the claw machine consisting of gachapon capsules. Customers are guaranteed to be able to pull a capsule each play, with an animation once the capsule is pulled opening and showing what's inside (10 loyalty points, 15 loyalty points, 20 loyalty points, free coffee, 10% off, 12% off, 15% off, free baked goods), and then they can spend loyalty points (10 per play) to play more times. 
